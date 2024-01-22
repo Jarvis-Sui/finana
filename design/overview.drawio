@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-01-22T15:29:17.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_B-ezWIio08v47GTjCY5" version="22.1.21" type="device">
+  <diagram name="Page-1" id="dxkh_rsEE5wPFItL7zip">
+    <mxGraphModel dx="904" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="onvLdAc5EG2C1lfbkqW8-1" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="onvLdAc5EG2C1lfbkqW8-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="50" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="onvLdAc5EG2C1lfbkqW8-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="onvLdAc5EG2C1lfbkqW8-4">
+          <mxGeometry x="10" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="onvLdAc5EG2C1lfbkqW8-3" value="market" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="onvLdAc5EG2C1lfbkqW8-4">
+          <mxGeometry y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="onvLdAc5EG2C1lfbkqW8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="onvLdAc5EG2C1lfbkqW8-5" target="onvLdAc5EG2C1lfbkqW8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="onvLdAc5EG2C1lfbkqW8-5" value="StockDataFeeds" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="175" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="onvLdAc5EG2C1lfbkqW8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="onvLdAc5EG2C1lfbkqW8-3" target="onvLdAc5EG2C1lfbkqW8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
